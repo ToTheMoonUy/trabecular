@@ -1,0 +1,12 @@
+name = "trabecular"
+license = "MIT"
+licenselink = "#"
+description = "Tema para Trabecular"
+homepage = "#"
+tags = ["minimalist", "clean", "simple", "bootstrap"]
+features = ["responsive", "small page size", "google analytics", "cookie consent", "tags"]
+min_version = "0.60.1"
+
+[author]
+  name = "To The Moon"
+  homepage = "https://tothemoon.uy"

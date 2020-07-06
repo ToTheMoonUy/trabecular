@@ -1,0 +1,25 @@
+<div class="py-5" >
+  <div class="container">
+    <div class="row">
+      <div class="mx-auto col-md-12 text-center">
+        <h1 class="mb-4 pb-3" contenteditable="true">¿Quienes Somos?</h1>
+      </div>
+    </div>
+    {{ range .Equipo }}
+       
+    <div class="row d-flex align-items-center justify-content-center">
+      <div class="col-lg-12">
+        <div class="row mb-4">
+          <div class="col-3"> <img class="img-fluid d-block mx-auto rounded-circle" src="{{ .foto }}" width="100" alt="Card image cap"> </div>
+          <div class="col-9 border-left">
+            <h4> <b>{{ .nombre }}</b> - {{ .cargo }} </h4>
+            <p class="mb-0">{{ .descripcion }}</p>
+            <a class="btn btn-outline-secondary my-2" href="{{ .linkedin }}">LinkedIn<br></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {{ end }}
+  </div>
+</div>
