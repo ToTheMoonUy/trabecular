@@ -8,7 +8,6 @@
   <meta name="description" content="{{ . }}">
   {{ end }}
 
-  {{ $bootstrapCss := "css/bootstrap.css" }}
-  <link rel="stylesheet" href="{{ $bootstrapCss | absURL }}" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+  {{ $bootstrapCss := resources.Get "css/bootstrap.css" | minify | fingerprint  }}
+  <link rel="stylesheet" href="{{ $bootstrapCss.Permalink }}" integrity="{{ $bootstrapCss.Data.Integrity }}">
 </head>

@@ -1,6 +1,6 @@
-{{ $jqueryJs := "js/jquery-3.5.1.slim.min.js" -}}
-<script src="{{ $jqueryJs | absURL }}"></script>
-{{ $bootstrapJs := "js/bootstrap.bundle.min.js" -}}
-<script src="{{ $bootstrapJs | absURL }}"></script>
-{{ $videoJs := "js/modal-video.js" -}}
-<script src="{{ $videoJs | absURL }}"></script>
+{{ $jqueryJs := resources.Get "/js/jquery-3.5.1.slim.min.js" -}}
+{{ $bootstrapJs := resources.Get "/js/bootstrap.bundle.min.js" -}}
+{{ $videoJs := resources.Get "/js/modal-video.js" -}}
+
+{{ $fullscript := slice $jqueryJs $bootstrapJs $videoJs | resources.Concat "/js/vendor.js" | minify | fingerprint }}
+<script src="{{ $fullscript.Permalink }}"></script>

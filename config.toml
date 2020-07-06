@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://cocky-stonebraker-a007c1.netlify.app/"
+languageCode = "es-es"
+title = "Trabecular"
 theme = "trabecular"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
