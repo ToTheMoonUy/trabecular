@@ -1,9 +1,11 @@
 <div class="row text-center bg-light">
     <div class="col-xl-6 col-lg-8 col-md-10 col-sm-10 p-lg-5 mx-auto my-5">
-        <h1 class="display-3 font-weight-normal">{{ .titulo }}</h1>
+        <div class="col-6 mx-auto">
+            <img class="img-fluid d-block py-3" src="{{.titulo}}" >
+        </div>
         <p class="lead font-weight-normal">{{ .subtitulo }}</p>
 
-        <button type="button" class="btn btn-outline-secondary video-btn" data-toggle="modal" data-src="{{ .url }}" data-target="#myModal">
+        <button type="button" class="btn btn-outline-primary video-btn" data-toggle="modal" data-src="{{ .url }}" data-target="#myModal">
             <svg width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-play" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                 <path fill-rule="evenodd" d="M10.804 8L5 4.633v6.734L10.804 8zm.792-.696a.802.802 0 0 1 0 1.392l-6.363 3.692C4.713 12.69 4 12.345 4 11.692V4.308c0-.653.713-.998 1.233-.696l6.363 3.692z"/>
             </svg>

@@ -4,10 +4,11 @@
 
   {{ hugo.Generator }}
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Open+Sans&display=swap" rel="stylesheet"> 
   {{ with .Site.Params.description }}
   <meta name="description" content="{{ . }}">
   {{ end }}
-
+  
   {{ $bootstrapCss := resources.Get "css/bootstrap.css" | minify | fingerprint  }}
   <link rel="stylesheet" href="{{ $bootstrapCss.Permalink }}" integrity="{{ $bootstrapCss.Data.Integrity }}">
 </head>

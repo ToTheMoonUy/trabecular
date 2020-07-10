@@ -4,7 +4,7 @@
 {{ partial "head.html" . }}
 
 <body>
-  {{ partial "nav.html" . }}
+  {{ partial "nav.html" .Params.Nav }}
   
   <div class="container-fluid">
       {{ block "main" . }}{{ end }}

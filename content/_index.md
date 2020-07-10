@@ -1,6 +1,12 @@
 ---
+Nav:
+  logo: svg/l5.svg
+  item1: Inicio
+  item2: Productos
+  item3: Blog
+  item4: Contacto
 Video:
-  titulo: Trabecular
+  titulo: svg/intro.svg
   subtitulo: >
     Una alternativa al yeso convencional, utilizando tecnología de vanguardia
     como la impresión 3d, para construir productos ortopédicos hechos a medidas.
