@@ -1,117 +1,43 @@
-<div class="py-5">
-    <div class="container">
-
+<div class="row bg-light py-6" >
+    <div class="container-fluid ">
         <div class="row">
-            <div class="col-md-12 text-center py-3">
+            <div class="col-md-12 text-center pb-5">
                 <h2 class="display-4 strong">{{ .titulo }}</h2>
             </div>
         </div>
-
-        <div class="row justify-content-center align-items-start">
-
-            <div class="col-lg-3 col-6 p-4 ">
-                <div class="col d-flex justify-content-center">
-                    <img class="img-fluid d-block p-5" src="{{.icono1}}" width="90%">
-                </div>
-                <p>{{.titulo1}}</p>
-                <p>{{.texto1}}</p>
+      <div class="row">
+        <div class="col-lg-3 col-md-6 col-12 py-3 px-sm-5">
+          <div class="card h-100"> <img class="img-fluid mx-auto d-block p-5" src="{{.icono1}}" width="50%">
+            <div class="card-body">
+              <h4 class="card-title">Visita al médico</h4>
+              <p class="card-text">El médico es quien hace la prescripción para la férula </p>
             </div>
-
-            <div class="col-lg-3 col-6 p-4 ">
-                <div class="col d-flex justify-content-center">
-                    <img class="img-fluid d-block p-5" src="{{.icono2}}" width="90%">
-                </div>
-                <p>{{.titulo2}}</p>
-                <p>{{.texto2}}</p>
-            </div>
-
-            <div class="col-lg-3 col-6 p-4 ">
-                <div class="col d-flex justify-content-center">
-                    <img class="img-fluid d-block p-5" src="{{.icono3}}" width="90%">
-                </div>
-                <p>{{.titulo3}}</p>
-                <p>{{.texto3}}</p>
-            </div>
-
-            <div class="col-lg-3 col-6 p-4 ">
-                <div class="col d-flex justify-content-center">
-                    <img class="img-fluid d-block p-5" src="{{.icono4}}" width="90%">
-                </div>
-                <p>{{.titulo4}}</p>
-                <p>{{.texto4}}</p>
-            </div>
-
+          </div>
         </div>
+        <div class="col-lg-3 col-md-6 col-12 py-3 px-sm-5">
+          <div class="card h-100"> <img class="img-fluid mx-auto d-block p-5" src="{{.icono2}}" width="50%">
+            <div class="card-body">
+              <h4 class="card-title">Escaneo y Medidas</h4>
+              <p class="card-text"> Con la prescripción médica, recibimos al paciente y procedemos a realizar un escaneo del miembro sano contralateral y tomar las medidas pertinentes</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-12 py-3 px-sm-5">
+          <div class="card h-100"> <img class="img-fluid mx-auto d-block p-5" src="{{.icono3}}" width="50%">
+            <div class="card-body">
+              <h4 class="card-title"> Diseño e impresión</h4>
+              <p class="card-text">Mediante un proceso de “espejo”, sobre ese archivo escaneado, se diseña la férula en programa de modelado, conforme a las necesidades del paciente, y luego se imprime en 3D.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-12 py-3 px-sm-5">
+          <div class="card h-100"> <img class="img-fluid mx-auto d-block p-5" src="{{.icono4}}" width="50%">
+            <div class="card-body">
+              <h4 class="card-title">Trabajo post impresión</h4>
+              <p class="card-text">De ser necesario se realiza un proceso de trabajo manual final que incluye lijado, pulido, laqueado, etc.</p>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-</div>
-
-
-<div class="container">
-    <div class="row ">
-
-        <div class="col-md-6 col-sm-12 ">
-            <div class="card m-3 py-4 ">
-                <div class="row d-flex align-items-center justify-content-center">
-                    <div class="col-md-4 d-flex justify-content-center">
-                        <img src="{{.icono1}}" class="card-img p-3">
-                    </div>
-                    <div class="col-md-8 align-items-center">
-                        <div class="">
-                            <h5 class="card-title">{{.titulo1}}</h5>
-                            <p class="card-text">{{.texto1}}</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-md-6 col-sm-12 ">
-            <div class="card m-3 py-4 ">
-                <div class="row d-flex align-items-center justify-content-center">
-                    <div class="col-md-4 d-flex justify-content-center">
-                        <img src="{{.icono2}}" class="card-img p-3">
-                    </div>
-                    <div class="col-md-8">
-                        <div class="">
-                            <h5 class="card-title">{{.titulo2}}</h5>
-                            <p class="card-text">{{.texto2}}</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-md-6 col-sm-12 ">
-            <div class="card m-3 py-4 ">
-                <div class="row d-flex align-items-center justify-content-center">
-                    <div class="col-md-4 d-flex justify-content-center">
-                        <img src="{{.icono3}}" class="card-img p-3">
-                    </div>
-                    <div class="col-md-8 align-items-center">
-                        <div class="">
-                            <h5 class="card-title">{{.titulo3}}</h5>
-                            <p class="card-text">{{.texto3}}</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-md-6 col-sm-12 ">
-            <div class="card m-3 py-4 ">
-                <div class="row d-flex align-items-center justify-content-center">
-                    <div class="col-md-4 d-flex justify-content-center">
-                        <img src="{{.icono4}}" class="card-img p-3">
-                    </div>
-                    <div class="col-md-8">
-                        <div class="">
-                            <h5 class="card-title">{{.titulo4}}</h5>
-                            <p class="card-text">{{.texto4}}</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-</div>
+  </div>

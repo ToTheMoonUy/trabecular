@@ -4762,7 +4762,7 @@ input[type="button"].btn-block {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #fff;
+  background-color: var(--fondo-1);
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
@@ -8446,6 +8446,11 @@ button.bg-dark:focus {
   padding-left: 3rem !important;
 }
 
+.py-6 {
+  padding-top: 6rem !important;
+  padding-bottom: 6rem !important;
+}
+
 .m-n1 {
   margin: -0.25rem !important;
 }
@@ -10294,4 +10299,40 @@ a.text-dark:hover, a.text-dark:focus {
 
 .blog-header-logo {
   font-size: 3em;
+}
+
+.bg-2 {
+  background-color: var(--secundario) !important;
+}
+
+.bg-3 {
+  background-color: var(--terciario) !important;
+}
+
+.logo {
+  width: 25%;
+}
+
+@media (min-width: 576px) {
+  .logo {
+    width: 70%;
+  }
+}
+
+@media (min-width: 768px) {
+  .logo {
+    width: 30%;
+  }
+}
+
+@media (min-width: 992px) {
+  .logo {
+    width: 25%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .logo {
+    width: 25%;
+  }
 }
