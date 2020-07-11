@@ -44,10 +44,10 @@ Trabajo:
   titulo: ¿Cómo trabajamos?
   titulo3: Diseño e impresión
   titulo4: Trabajo post impresión
-  icono1: svg/003.svg
-  icono2: svg/004.svg
-  icono3: svg/005.svg
-  icono4: svg/006.svg
+  icono1: svg/t1.svg
+  icono2: svg/t2.svg
+  icono3: svg/t3.svg
+  icono4: svg/t4.svg
 Entrega:
   titulo1: Entrega
   texto1: >
@@ -63,4 +63,9 @@ Equipo:
     cargo: CEO & founder
     descripcion: Esta es una pequeña bio que acompaña al perfil
     linkedin: null
+Footer:
+  item1: Inicio
+  item2: Productos
+  item3: Blog
+  item4: Contacto
 ---
