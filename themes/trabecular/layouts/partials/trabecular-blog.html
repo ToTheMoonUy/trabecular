@@ -1,0 +1,20 @@
+<div class="py-5">
+  <div class="container">
+    <div class="row">
+
+      {{ range where .Pages "Section" "blog" }}
+      <div class="col-md-12 py-3">
+        <div class="card"> <img class="card-img-top" src="http://via.placeholder.com/1000x400"
+            alt="Card image cap">
+          <div class="card-body">
+            <h2 class="card-title"><a href="{{ .Permalink }}">{{ .Params.titulo }}</a></h2>
+            <p class="card-text">{{ .Params.copete }}</p>
+            <p><time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time></p>
+            <a href="{{ .Permalink }}">Leer mas</a>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>

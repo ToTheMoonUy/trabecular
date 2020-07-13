@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-md py-4 d-flex justify-content-between">
   <div class="container">
-    <img class="img logo" src="{{.logo}}">
+    <img class="img logo" src="/svg/l5.svg">
     <button class="navbar-toggler navbar-toggler-right border-0" type="button" data-toggle="collapse"
       data-target="#navbar10">
       <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="26" height="26" viewBox="0 0 26 26"
@@ -10,10 +10,10 @@
     </button>
     <div class="collapse navbar-collapse" id="navbar10">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item px-3 text-center"> <a class="nav-link" href="#">{{.item1}}</a> </li>
-        <li class="nav-item px-3 text-center"> <a class="nav-link" href="#">{{.item2}}</a> </li>
-        <li class="nav-item px-3 text-center"> <a class="nav-link" href="#">{{.item3}}</a> </li>
-        <li class="nav-item px-3 text-center"> <a class="nav-link" href="#">{{.item4}}</a> </li>
+        {{ range $.items }}
+          <li class="nav-item px-3 text-center"> <a class="nav-link" href="{{.url}}">{{.title}}</a> </li>
+        {{ end }}
+
       </ul>
     </div>
   </div>

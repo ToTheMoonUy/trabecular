@@ -2,23 +2,22 @@
   <div class="container">
     <div class="row d-flex justify-content-center">
       <div class="p-4 col-md-4 text-center">
-        <h2 class="mb-4 text-light">Trabecular</h2>
-        <p>A tu medida</p>
+        <h2 class="mb-4 text-light">{{.sobre.titulo}}</h2>
+        <p>{{.sobre.subtitulo}}</p>
       </div>
       <div class="p-4 col-md-4 text-center">
         <h2 class="mb-4 text-light">Menu</h2>
         <ul class="list-unstyled"> 
-          <a href="#" class="text-light">{{.item1}}</a> <br> 
-          <a href="#" class="text-light">{{.item2}}</a> <br> 
-          <a href="#" class="text-light">{{.item3}}</a> <br> 
-          <a href="#" class="text-light">{{.item4}}</a><br> 
+          {{ range $.items }}
+            <a href="{{.url}}" class="text-light">{{.title}}</a> <br> 
+          {{ end }}
         </ul>
       </div>
       <div class="p-4 col-md-4 text-center">
-        <h2 class="mb-4 text-light">Contacto</h2>
-        <p class="text-light">+598 00 000 000 </p>
-        <p class="text-light">mail@contacto.net </p>
-        <p class="text-light">Montevideo, Uruguay </p>
+        <h2 class="mb-4 text-light">{{.contacto.titulo}}</h2>
+        <p class="text-light">{{.contacto.telefono}}</p>
+        <p class="text-light">{{.contacto.mail}}</p>
+        <p class="text-light">{{.contacto.direccion}}</p>
       </div>
     </div>
     <div class="row">

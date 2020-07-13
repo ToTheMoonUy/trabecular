@@ -4,13 +4,13 @@
 {{ partial "head.html" . }}
 
 <body>
-  {{ partial "nav.html" .Params.Nav }}
+  {{ partial "nav.html" .Site.Data.menu.main }}
   
   <div class="container-fluid">
       {{ block "main" . }}{{ end }}
   </div>
 
-  {{ partial "footer.html" .Params.Footer }}
+  {{ partial "footer.html" .Site.Data.menu.footer }}
 
   {{ partial "bootstrap-js.html" . }}
   {{ partial "google-analytics-async.html" . }}

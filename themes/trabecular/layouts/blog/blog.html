@@ -1,5 +1,9 @@
 {{- define "main" -}}
 
+{{ partial "trabecular-blog-intro" .Params }}
+
+{{ partial "trabecular-blog" . }}
+<!-- 
 {{ $homepage := "Home" }}
 {{ with .Site.Menus.nav }}
   {{ range first 1 . }}
@@ -22,6 +26,6 @@
     {{ .Summary }}
     {{ end }}
   </p>
-{{ end }}
+{{ end }} -->
 
 {{- end -}}

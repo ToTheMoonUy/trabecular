@@ -1,0 +1,23 @@
+items:
+- identifier: inicio
+  title: Inicio
+  url: /
+- identifier: blog
+  title: Blog 
+  url: /blog/
+- identifier: productos
+  title: Productos 
+  url: /productos/
+- identifier: contacto
+  title: Contacto 
+  url: /contacto/
+
+sobre:
+  titulo: Trabecular
+  subtitulo: A tu medida
+
+contacto:
+  titulo: Contacto
+  telefono: +598 00 000 000 
+  mail: mail@contacto.net 
+  direccion: Montevideo, Uruguay 
