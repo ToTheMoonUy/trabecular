@@ -1,8 +1,9 @@
 ---
-titulo: "Lorem Ipsum"
+titulo: Lorem Ipsum 2
 copete: >
     Este es un copete de la nota que resume lo mas importante y hace que la nota sea atractiva
-fecha: 23-11-2020
+date: 2019-11-19
+imagen: /img/2.jpg
 draft: false
 ---
 
