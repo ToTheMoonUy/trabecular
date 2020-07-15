@@ -85,4 +85,32 @@ collections: # A list of collections the CMS should be able to edit
               - label: linkedin
                 name: linkedin
                 widget: string
-                
+
+      - file: "content/productos/_index.md"
+        label: "Inicio"
+        name: "inicio"
+        fields:
+
+          - label: "Video"
+            name: Video
+            widget: object
+            fields: 
+              - label: "Subtitulo"
+                name: "subtitulo"
+                widget: "text"
+              - label: "Url"
+                name: "url"
+                widget: "string"              
+
+
+  - name: "productos" # Used in routes, e.g., /admin/collections/blog
+    label: "Productos" # Used in the UI
+    folder: "content/productos/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Productos", name: "productos", widget: "hidden", default: "productos"}
+      - {label: "Descripcion", name: "descripcion", widget: "text"}
+      - {label: "Indicaciones", name: "indicaciones", widget: "list", field: {label: "item", name: "item", widget: "string"}}
+      - {label: "Galeria", name: "galeria", widget: "list", field: {label: "item", name: "item", widget: "string"}}
+      
