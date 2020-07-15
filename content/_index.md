@@ -1,4 +1,10 @@
 ---
+Nav:
+  logo: svg/l5.svg
+  item1: Inicio
+  item2: Productos
+  item3: Blog
+  item4: Contacto
 Video:
   titulo: svg/intro.svg
   subtitulo: >
@@ -27,16 +33,18 @@ Trabajo:
     - titulo: Escaneo y Medidas
       icono: svg/t2.svg
       texto: >
-        Con la prescripción médica, recibimos al paciente y procedemos a realizar el escaneo y la toma de medidas.
+        Con la prescripción médica, recibimos al paciente y procedemos a
+        realizar el escaneo y la toma de medidas.
     - titulo: Diseño e impresión
       icono: svg/t3.svg
       texto: >
-        Sobre ese archivo escaneado diseñamos la férula y mandamos a imprimir en 3D.
+        Sobre ese archivo escaneado diseñamos la férula y mandamos a imprimir en
+        3D.
     - titulo: Trabajo post impresión
       icono: svg/t4.svg
       texto: >
-        Realizamos un proceso de trabajo manual final que incluye lijado, pulido y adición de recubrimiento interior.
-  
+        Realizamos un proceso de trabajo manual final que incluye lijado, pulido
+        y adición de recubrimiento interior.
 Entrega:
   titulo1: Entrega
   texto1: >
