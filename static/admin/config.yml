@@ -21,9 +21,6 @@ collections: # A list of collections the CMS should be able to edit
             name: Video
             widget: object
             fields: 
-              - label: "Titulo"
-                name: "titulo"
-                widget: string
               - label: "Subtitulo"
                 name: "subtitulo"
                 widget: "text"
