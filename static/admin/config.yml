@@ -31,22 +31,13 @@ collections: # A list of collections the CMS should be able to edit
                 widget: "string"
 
           - label: "Intro"
-            name: "Intro"
-            widget: "object"
-            field: 
-              label: "Item"
-              name: "item"
-              widget: "string"
-              
-          - label: "Ingredients"
-            name: "ingredients"
-            widget: "list"
-            fields:
-              - label: "Ingredient"
-                name: "ingredient"
-                widget: "object"
-                fields:
-                  - {label: "Amount", name: "amount", widget: "number"}
-                  - {label: "Unit", name: "unit", widget: "select", options: ["", "dl", "l", "kg"]}
-                  - {label: "Name", name: "name", widget: "string"}
-    
+            name: Intro
+            widget: list
+            fields: 
+              - label: Titulo
+                name: titulo
+                widget: string
+              - label: "Items"
+                name: "items"
+                widget: "list"
+                field: {label: "item", name: "item", widget: "string"}
