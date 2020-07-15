@@ -46,14 +46,14 @@ Trabajo:
         Realizamos un proceso de trabajo manual final que incluye lijado, pulido
         y adición de recubrimiento interior.
 Entrega:
-  titulo1: Entrega
-  texto1: >
-    En un plazo de 48-72 horas la férula estará lista para ser colocada en
-    sustitución al yeso.
-  titulo2: Seguimiento del tratamiento
-  texto2: >
-    A lo largo del proceso se realiza un seguimiento personalizado para cada
-    paciente.
+  - titulo: Entrega
+    texto: >
+      En un plazo de 48-72 horas la férula estará lista para ser colocada en
+      sustitución al yeso.
+  - titulo: Seguimiento del tratamiento
+    texto: >
+      A lo largo del proceso se realiza un seguimiento personalizado para cada
+      paciente.
 Equipo:
   - foto: svg/007.svg
     nombre: Joaquín Cravea

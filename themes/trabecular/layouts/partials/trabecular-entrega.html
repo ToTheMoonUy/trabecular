@@ -1,16 +1,12 @@
 <div class="py-6">
     <div class="container">
       <div class="row">
+        {{ range .Entrega }}
           <div class="col-lg-6 col-md-12 px-5">
-              <h3 class="my-3">{{ .titulo1 }}</h3>
-              <p class="lead">{{ .texto1 }}</p>
+              <h3 class="my-3">{{ .titulo }}</h3>
+              <p class="lead">{{ .texto }}</p>
             </div>
-         
-            <div class="col-lg-6 col-md-12 px-5">
-              <h3 class="my-3">{{ .titulo2 }}</h3>
-              <p class="lead">{{ .texto2 }}</p>
-            </div>
-  
+        {{ end }} 
       </div>
     </div>
   </div>
