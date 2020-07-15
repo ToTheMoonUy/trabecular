@@ -14,24 +14,25 @@ Video:
 Intro:
   - titulo: ¿Cual es nuestro objetivo?
     items:
-      - item: Mejorar la calidad de vida de personas que sufren lesiones óseas, ligamentosas, musculares, tendinosas y articulares.
+      - item: Mejorar la calidad de vida de personas que sufren lesiones óseas,
+          ligamentosas, musculares, tendinosas y articulares.
       - item: Facilitar recuperacion de la mejor forma y en el menor tiempo posible.
-      - item: Brindar soluciones para los profesionales, que permitan mayor eficiencia en su trabajo.
-
+      - item: Brindar soluciones para los profesionales, que permitan mayor eficiencia
+          en su trabajo.
   - titulo: ¿Qué nos diferencia?
     items:
       - item: Productos PERSONALIZADOS, adaptados perfectamente a tu medida.
-      - item: Materiales de alta calidad, resistentes y seguros. 
-      - item: Componentes biodegradables, amigables con el medio ambiente. 
+      - item: Materiales de alta calidad, resistentes y seguros.
+      - item: Componentes biodegradables, amigables con el medio ambiente.
 Trabajo:
   titulo: ¿Cómo trabajamos?
   tarjetas:
     - titulo: Visita al médico
-      icono: svg/t1.svg
-      texto: >
+      icono: /images/uploads/t1.svg
+      texto: |
         El médico es quien hace la prescripción para la férula.
     - titulo: Escaneo y Medidas
-      icono: svg/t2.svg
+      icono: /images/uploads/t2.svg
       texto: >
         Con la prescripción médica, recibimos al paciente y procedemos a
         realizar el escaneo y la toma de medidas.
@@ -59,7 +60,7 @@ Equipo:
     nombre: Joaquín Cravea
     cargo: CEO & founder
     descripcion: Esta es una pequeña bio que acompaña al perfil
-    linkedin: "http://"
+    linkedin: http://
 Footer:
   item1: Inicio
   item2: Productos
