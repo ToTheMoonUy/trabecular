@@ -1,10 +1,4 @@
 ---
-Nav:
-  logo: svg/l5.svg
-  item1: Inicio
-  item2: Productos
-  item3: Blog
-  item4: Contacto
 Video:
   titulo: svg/intro.svg
   subtitulo: >
@@ -12,17 +6,17 @@ Video:
     como la impresión 3D, para construir productos ortopédicos hechos a medida.
   url: https://www.youtube.com/embed/J7UwSVsiwzI
 Intro:
-  titulo1: ¿Cual es nuestro objetivo?
-  item1:
-    - item: Mejorar la calidad de vida de personas que sufren lesiones óseas, ligamentosas, musculares, tendinosas y articulares.
-    - item: Facilitar recuperacion de la mejor forma y en el menor tiempo posible.
-    - item: Brindar soluciones para los profesionales, que permitan mayor eficiencia en su trabajo.
+  - titulo: ¿Cual es nuestro objetivo?
+    items:
+      - item: Mejorar la calidad de vida de personas que sufren lesiones óseas, ligamentosas, musculares, tendinosas y articulares.
+      - item: Facilitar recuperacion de la mejor forma y en el menor tiempo posible.
+      - item: Brindar soluciones para los profesionales, que permitan mayor eficiencia en su trabajo.
 
-  titulo2: ¿Qué nos diferencia?
-  item2:
-    - item: Productos PERSONALIZADOS, adaptados perfectamente a tu medida.
-    - item: Materiales de alta calidad, resistentes y seguros. 
-    - item: Componentes biodegradables, amigables con el medio ambiente. 
+  - titulo: ¿Qué nos diferencia?
+    items:
+      - item: Productos PERSONALIZADOS, adaptados perfectamente a tu medida.
+      - item: Materiales de alta calidad, resistentes y seguros. 
+      - item: Componentes biodegradables, amigables con el medio ambiente. 
 Trabajo:
   titulo: ¿Cómo trabajamos?
   tarjetas:

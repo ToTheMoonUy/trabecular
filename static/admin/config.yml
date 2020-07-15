@@ -16,6 +16,37 @@ collections: # A list of collections the CMS should be able to edit
         label: "Inicio"
         name: "inicio"
         fields:
-          - {label: "Video", name: Video, widget: object, fields: [
-              {label: "Titulo", name: "titulo", widget: string},
-              {label: "Subtitulo", name: "subtitulo", widget: "text"}]}
+          - label: "Video"
+            name: Video
+            widget: object
+            fields: 
+              - label: "Titulo"
+                name: "titulo"
+                widget: string
+              - label: "Subtitulo"
+                name: "subtitulo"
+                widget: "text"
+              - label: "Url"
+                name: "url"
+                widget: "string"
+
+          - label: "Intro"
+            name: "Intro"
+            widget: "object"
+            field: 
+              label: "Item"
+              name: "item"
+              widget: "string"
+              
+          - label: "Ingredients"
+            name: "ingredients"
+            widget: "list"
+            fields:
+              - label: "Ingredient"
+                name: "ingredient"
+                widget: "object"
+                fields:
+                  - {label: "Amount", name: "amount", widget: "number"}
+                  - {label: "Unit", name: "unit", widget: "select", options: ["", "dl", "l", "kg"]}
+                  - {label: "Name", name: "name", widget: "string"}
+    

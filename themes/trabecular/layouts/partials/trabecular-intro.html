@@ -1,23 +1,14 @@
 <div class="py-6">
   <div class="container">
     <div class="row">
-        <div class="col-lg-6 col-md-12 px-sm-3 px-md-5">
-            <h3 class="my-3">{{ .titulo1 }}</h3>
-            {{ range .item1 }}
-                <li class="mb-4">{{ .item }}</li>
-            {{ end }}
-          </div>
-       
-          <div class="col-lg-6 col-md-12 px-3">
-            <h3 class="my-3">{{ .titulo2 }}</h3>
-            {{ range .item2 }}
-                <li class="mb-4">{{ .item }}</li>
-            {{ end }}
-          </div>
-
+      {{ range .Intro }}
+      <div class="col-lg-6 col-md-12 px-sm-3 px-md-5">
+        <h3 class="my-3">{{ .titulo }}</h3>
+        {{ range .items }}
+        <li class="mb-3">{{ .item }}</li>
+        {{ end }}
+      </div>
+      {{ end }}
     </div>
   </div>
 </div>
-
-
-  
