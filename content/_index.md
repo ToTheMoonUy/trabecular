@@ -28,7 +28,7 @@ Trabajo:
   tarjetas:
     - titulo: Visita al médico
       icono: svg/t1.svg
-      texto: >
+      texto: |
         El médico es quien hace la prescripción para la férula.
     - titulo: Escaneo y Medidas
       icono: svg/t2.svg
