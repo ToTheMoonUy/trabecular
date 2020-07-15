@@ -59,7 +59,7 @@ Equipo:
     nombre: Joaquín Cravea
     cargo: CEO & founder
     descripcion: Esta es una pequeña bio que acompaña al perfil
-    linkedin: null
+    linkedin: "http://"
 Footer:
   item1: Inicio
   item2: Productos

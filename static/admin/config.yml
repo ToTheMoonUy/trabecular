@@ -57,5 +57,35 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: "titulo", name: "titulo", widget: "string"}
                   - {label: "icono", name: "icono", widget: "image"}
                   - {label: "texto", name: "texto", widget: "string"}
-          
 
+          - label: "Entrega"
+            name: Entrega
+            widget: list
+            fields: 
+              - label: titulo
+                name: titulo
+                widget: string
+              - label: texto
+                name: texto
+                widget: string
+
+          - label: "Equipo"
+            name: Equipo
+            widget: list
+            fields: 
+              - label: foto
+                name: foto
+                widget: image
+              - label: nombre
+                name: nombre
+                widget: string
+              - label: cargo
+                name: cargo
+                widget: string
+              - label: descripcion
+                name: descripcion
+                widget: string
+              - label: linkedin
+                name: linkedin
+                widget: string
+                
