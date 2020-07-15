@@ -16,6 +16,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Inicio"
         name: "inicio"
         fields:
+
           - label: "Video"
             name: Video
             widget: object
@@ -41,3 +42,20 @@ collections: # A list of collections the CMS should be able to edit
                 name: "items"
                 widget: "list"
                 field: {label: "item", name: "item", widget: "string"}
+
+          - label: "Trabajo"
+            name: Trabajo
+            widget: object
+            fields: 
+              - label: Titulo
+                name: titulo
+                widget: string
+              - label: "Tarjetas"
+                name: "tarjetas"
+                widget: "list"
+                fields: 
+                  - {label: "titulo", name: "titulo", widget: "string"}
+                  - {label: "icono", name: "icono", widget: "image"}
+                  - {label: "texto", name: "texto", widget: "string"}
+          
+
