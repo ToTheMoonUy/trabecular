@@ -52,7 +52,7 @@ collections: # A list of collections the CMS should be able to edit
                 widget: "list"
                 fields: 
                   - {label: "titulo", name: "titulo", widget: "string"}
-                  - {label: "icono", name: "icono", widget: "image"}
+                  - {label: "icono", name: "icono", widget: "image", default: "/img/"}
                   - {label: "texto", name: "texto", widget: "string"}
 
           - label: "Entrega"
