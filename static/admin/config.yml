@@ -12,6 +12,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Paginas"
     files:
+      # Pagina de inicio
       - file: "content/_index.md"
         label: "Inicio"
         name: "inicio"
@@ -86,16 +87,27 @@ collections: # A list of collections the CMS should be able to edit
                 name: linkedin
                 widget: string
 
-
+  # Productos
   - name: "productos" # Used in routes, e.g., /admin/collections/blog
     label: "Productos" # Used in the UI
     folder: "content/productos/producto" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{titulo}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Producto", name: "producto", widget: "hidden", default: "productos"}
       - {label: "Titulo", name: "titulo", widget: "string"}
       - {label: "Descripcion", name: "descripcion", widget: "text"}
       - {label: "Indicaciones", name: "indicaciones", widget: "list", field: {label: "item", name: "item", widget: "string"}}
       - {label: "Galeria", name: "galeria", widget: "list", field: {label: "item", name: "item", widget: "image"}}
-      
+  
+  # BLog
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "content/blog/posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{titulo}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Blog", name: "blog", widget: "hidden", default: "Blogs"}
+      - {label: "Titulo", name: "titulo", widget: "string"}
+      - {label: "Copete", name: "copete", widget: "text"}
+      - {label: "Imagen", name: "imagen", widget: "image"}      
