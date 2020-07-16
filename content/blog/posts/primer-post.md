@@ -1,6 +1,6 @@
 ---
 titulo: Primer post
-date: 2019-11-20"
+date: 2020-07-16T02:07:53.407Z
 imagen: /img/1.jpg
 draft: false
 ---
