@@ -9,10 +9,10 @@ indicaciones:
   - item: Lesiones de partes blandas
   - item: Post operatorios
 galeria:
-  - /images/uploads/t1.jpg
-  - /images/uploads/t2.jpg
-  - /images/uploads/t3.jpg
-  - /images/uploads/t4.jpg
+  - imagen: /images/uploads/t1.jpg
+  - imagen: /images/uploads/t2.jpg
+  - imagen: /images/uploads/t3.jpg
+  - imagen: /images/uploads/t4.jpg
 draft: false
 ---
 

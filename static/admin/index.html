@@ -13,6 +13,42 @@
 
   <script>
 
+    var PagePreview = createClass({
+      render: function() {
+        var entry = this.props.entry;
+        
+        return h('div', {},
+          h('div', { className: "container pt-5"},
+            h('Div', {className: "py-3"}, this.props.widgetFor('Video')),
+            h('Hr', {className: "py-3"},),
+            h('Div', {className: "py-3"}, this.props.widgetFor('Intro')),
+            h('Hr', {className: "py-3"},),
+            h('Div', {className: "py-4 col-7"}, this.props.widgetFor('Trabajo')),
+            h('Hr', {className: "py-3"},),
+            h('Div', {className: "py-3"}, this.props.widgetFor('Entrega')),
+            h('Hr', {className: "py-3"},),
+            h('Div', {className: "py-3"}, this.props.widgetFor('Equipo')),
+          ))
+      }
+    });
+    CMS.registerPreviewTemplate("inicio", PagePreview);    
+
+
+    var ProductPreview = createClass({
+      render: function() {
+        var entry = this.props.entry;
+        
+        return h('div', {},
+          h('div', { className: "container pt-5"},
+            h('h1', {className: "text-left"}, entry.getIn(['data', 'titulo'])),
+            h('p', {className: "py-3 lead"}, entry.getIn(['data', 'descripcion'])),
+            h('p', {className: "py-3 lead"}, this.props.widgetFor('indicaciones')),
+            h('p', {className: "py-3 lead"}, this.props.widgetFor('galeria')),
+          ))
+      }
+    });
+    CMS.registerPreviewTemplate("productos", ProductPreview);    
+
     var PostPreview = createClass({
       render: function() {
         var entry = this.props.entry;
