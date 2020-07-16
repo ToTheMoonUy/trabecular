@@ -1,17 +1,18 @@
 ---
-titulo: Férula antebraquipalmar 
+titulo: Férula antebraquipalmar
 descripcion: >
-    Phasellus non suscipit nisi, at tristique tellus. Suspendisse vulputate sem sed facilisis dignissim. Proin non venenatis tellus, nec scelerisque est.
+  Phasellus non suscipit nisi, at tristique tellus. Suspendisse vulputate sem
+  sed facilisis dignissim. Proin non venenatis tellus, nec scelerisque est.
 date: 2019-11-20
 indicaciones:
-    - item: Fracturas distales de Radio y/o Cúbito.
-    - item: Lesiones de partes blandas
-    - item: Post operatorios
-galeria: 
-    - imagen: /img/t2.jpg
-    - imagen: /img/t4.jpg
-    - imagen: /img/t3.jpg
-    - imagen: /img/t1.jpg
+  - item: Fracturas distales de Radio y/o Cúbito.
+  - item: Lesiones de partes blandas
+  - item: Post operatorios
+galeria:
+  - /images/uploads/t1.jpg
+  - /images/uploads/t2.jpg
+  - /images/uploads/t3.jpg
+  - /images/uploads/t4.jpg
 draft: false
 ---
 
