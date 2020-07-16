@@ -1,6 +1,6 @@
 ---
 titulo: Lorem Ipsum 2
-date: 2019-11-19
+date: 2020-07-15T01:09:37.615Z
 imagen: /img/2.jpg
 draft: false
 ---
