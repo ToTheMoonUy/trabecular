@@ -9,7 +9,26 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+
+
   <script>
+
+    var PostPreview = createClass({
+      render: function() {
+        var entry = this.props.entry;
+        var image = entry.getIn(['data', 'imagen']);
+        var bg = this.props.getAsset(image);
+        
+        return h('div', {},
+          h('div', { className: "container pt-5"},
+            h('h1', {className: "text-center"}, entry.getIn(['data', 'titulo'])),
+            h('img', {className: "img-fluid py-3", src: bg.toString()}),
+            h('div', { }, this.props.widgetFor('body'))
+          ))
+      }
+    });
+    CMS.registerPreviewTemplate("blog", PostPreview);
+
     CMS.registerPreviewStyle("css/bootstrap.css");
   </script>
 
