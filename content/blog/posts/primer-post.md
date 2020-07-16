@@ -1,8 +1,6 @@
 ---
 titulo: Primer post
-copete: >
-    Este es un copete de la nota que resume lo mas importante y hace que la nota sea atractiva
-date: 2019-11-20
+date: 2019-11-20"
 imagen: /img/1.jpg
 draft: false
 ---
