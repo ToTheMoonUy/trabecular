@@ -3,7 +3,8 @@
 
     <div class="container py-5">
         <h1 class="text-center pb-4">{{ .Params.titulo | markdownify }}</h1>
-        <img class="py-5" src="{{ .Params.imagen }}">
+        <img class="img-fluid py-5" src="{{ .Params.imagen }}">
+        
         {{ .Content }}
     </div>
 
