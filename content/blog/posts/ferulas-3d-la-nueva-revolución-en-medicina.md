@@ -2,7 +2,8 @@
 blog: Blogs
 titulo: Ferulas 3D; La nueva revolución en medicina
 copete: >
-    Las férulas 3D es un avance tecnológico que se adapta a buscar soluciones a la medida de los pacientes
+  Las férulas 3D es un avance tecnológico que se adapta a buscar soluciones a la
+  medida de los pacientes
 por: Autor 1
 date: 2020-07-22T19:32:49.825Z
 imagen: /images/uploads/2.jpg
@@ -12,8 +13,6 @@ imagen: /images/uploads/2.jpg
 Las férulas 3D es un avance tecnológico que se adapta a buscar soluciones a la medida de los pacientes, creando una revolución a la solución de los tratamientos a seguir.
 
 Desde el 2014 se empezó el proceso de investigación en la impresión 3D en medicina, estudiando  los materiales y diseños para hacer una férula que pueda personalizarse y se adapte a las extremidades del cuerpo. Nos permite la incorporación de un electro estimulador que ayuda en la recuperación de la zona dañada y ayuda a evitar la atrofia muscular. Las férulas 3D son menos pesadas y  ligeras que una escayola y podremos mojarla sin problema.
-
-
 
 ## VENTAJAS DE USAR ESCAYOLAS IMPRESAS EN 3D
 
@@ -29,8 +28,6 @@ Este avance en las impresiones en 3D en medicina tiene multitud de ventajas tale
 
 ![texto alternativo](/images/uploads/1.jpg "titulo")
 
-
-
 ## ¿SON EL FUTURO DE LA MEDICINA?
 
 Las impresiones en 3D en medicina están consideradas como el mayor avance en la medicina. Todo esto es por la importancia que está cogiendo por cosas como el bajo coste económico que está provocando y los diseños posibles que presta haciendo fácil la impresión 3D.
@@ -39,7 +36,13 @@ Con la impresión 3D en medicina se ha logrado conseguir férulas sin los inconv
 
 Estas férulas serán un avance para los niños que hayan perdido un miembro. Pues les ayudará a superar una situación psicológica.
 
+![](/images/uploads/cortex01-1200x600.jpg)
 
+
+
+![](/images/uploads/xkeletp-farmacias.com_-1728x800_c.jpg)
+
+![](/images/uploads/norte-escayola-ferula-3d-1100x734.jpg)
 
 ## IMPRESORAS 3D EN LA SALUD
 
