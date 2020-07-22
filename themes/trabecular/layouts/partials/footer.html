@@ -5,7 +5,7 @@
         <h2 class="text-light">{{.sobre.titulo}}</h2>
         <p>{{.sobre.subtitulo}}</p>
       </div>
-      <div class="p-4 col-md-4 text-center">
+      <div class="p-4 col-md-4 text-left">
         <h2 class="text-light">Menu</h2>
         <ul class="list-unstyled"> 
           {{ range $.items }}
@@ -13,7 +13,7 @@
           {{ end }}
         </ul>
       </div>
-      <div class="p-4 col-md-4 text-right">
+      <div class="p-4 col-md-4 text-left">
         <h2 class="text-light">{{.contacto.titulo}}</h2>
         <ul class="list-unstyled"> 
           <a class="text-light">{{.contacto.telefono}}</a><br>
