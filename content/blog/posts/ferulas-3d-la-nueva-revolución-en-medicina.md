@@ -1,6 +1,9 @@
 ---
 blog: Blogs
 titulo: Ferulas 3D; La nueva revolución en medicina
+copete: >
+    Las férulas 3D es un avance tecnológico que se adapta a buscar soluciones a la medida de los pacientes
+por: Autor 1
 date: 2020-07-22T19:32:49.825Z
 imagen: /images/uploads/2.jpg
 ---
