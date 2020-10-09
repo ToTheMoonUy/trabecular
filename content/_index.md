@@ -10,7 +10,7 @@ Video:
   subtitulo: >
     Una alternativa al yeso convencional, utilizando tecnología de vanguardia
     como la impresión 3D, para construir productos ortopédicos hechos a medida.
-  url: 
+  url: https://www.youtube.com/watch?v=i_1tX36DNg4
 Intro:
   - titulo: ¿Cual es nuestro objetivo?
     items:
@@ -29,7 +29,7 @@ Trabajo:
   tarjetas:
     - titulo: Visita al médico
       icono: /images/uploads/t1.svg
-      texto: >
+      texto: |
         El médico es quien hace la prescripción para la férula.
     - titulo: Escaneo y Medidas
       icono: /images/uploads/t2.svg
