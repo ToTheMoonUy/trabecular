@@ -4,10 +4,10 @@ copete: >
   Phasellus non suscipit nisi, at tristique tellus. Suspendisse vulputate sem
   sed facilisis dignissim.
 date: 2020-07-16T02:07:53.407Z
-imagen: /img/1.jpg
+imagen: /images/uploads/blog-1.jpg
 draft: false
 ---
-![](/images/uploads/férula_01.jpg)
+![]()
 
 Lorem Ipsum
 
@@ -16,6 +16,8 @@ Phasellus non suscipit nisi, at tristique tellus. Suspendisse vulputate sem sed 
 Nam eget fermentum orci. Aliquam a tristique orci, vel maximus tortor. Aenean eget nisi eget leo suscipit consequat quis nec sapien. Nam faucibus neque non eleifend accumsan. Aliquam at ligula urna. Ut vestibulum neque quis nisi cursus, auctor euismod justo eleifend. Ut urna ipsum, tristique nec faucibus et, cursus id nisl. Morbi nec malesuada orci. Aenean id nunc ante. Praesent tortor ipsum, molestie in lectus at, lobortis varius sapien. Maecenas cursus tristique arcu aliquam dapibus. Mauris id placerat risus. Nunc hendrerit sed magna eget viverra.
 
 Morbi in tellus lacinia risus blandit rutrum laoreet sit amet tellus. Suspendisse elementum lorem euismod erat vestibulum volutpat. Vivamus suscipit sagittis sem, a fringilla ligula pretium non. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer luctus egestas mauris. Aenean vestibulum sit amet ex id convallis. Nullam semper pharetra ex, convallis maximus nisl vulputate suscipit. Donec vulputate ligula magna, quis pharetra augue gravida nec. Vivamus in lacus dignissim, euismod risus ac, convallis ligula. Maecenas in commodo augue. Fusce at eros orci. Proin sit amet interdum est. Pellentesque eu tempus erat. Curabitur id libero non arcu sollicitudin auctor in eu massa.
+
+![](/images/uploads/cortex01-1200x600.jpg)
 
 Donec lacinia tellus pharetra lacinia fringilla. Donec egestas posuere purus, ut imperdiet metus sodales at. Curabitur rutrum lobortis felis, nec accumsan nunc ultrices a. Duis a magna eget urna dignissim aliquam vitae sit amet tellus. Aliquam sollicitudin, justo a commodo consectetur, nibh turpis commodo dui, at laoreet nulla elit id massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut molestie justo et lectus suscipit varius. Fusce ac consectetur neque. Etiam ut vehicula erat, sit amet bibendum ex. Curabitur feugiat magna nec auctor fringilla. Donec sit amet lorem ut arcu vestibulum hendrerit ac sed elit. Nulla ac lacinia velit, ut scelerisque mauris.
 
