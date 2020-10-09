@@ -1,10 +1,11 @@
 ---
-titulo: Lorem Ipsum 2
+titulo: Post de prueba 2
 copete: >
-    Nam eget fermentum orci. Aliquam a tristique orci, vel maximus tortor. Aenean eget nisi eget leo suscipit consequat quis nec sapien. 
+  Nam eget fermentum orci. Aliquam a tristique orci, vel maximus tortor. Aenean
+  eget nisi eget leo suscipit consequat quis nec sapien. 
 por: Autor 1
 date: 2020-07-15T01:09:37.615Z
-imagen: /img/2.jpg
+imagen: /images/uploads/blog-2.jpg
 draft: false
 ---
 
