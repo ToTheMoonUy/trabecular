@@ -10,7 +10,7 @@ Video:
   subtitulo: >
     Una alternativa al yeso convencional, utilizando tecnología de vanguardia
     como la impresión 3D, para construir productos ortopédicos hechos a medida.
-  url: https://www.youtube.com/watch?v=i_1tX36DNg4
+  url: https://www.facebook.com/Trabecular3D/videos/1043260642743723/
 Intro:
   - titulo: ¿Cual es nuestro objetivo?
     items:
