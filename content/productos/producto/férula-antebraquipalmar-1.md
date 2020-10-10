@@ -7,6 +7,5 @@ indicaciones:
   - Fracturas de huesos de muñeca.
   - Lesiones de partes blandas antebraquipalmares.
   - Post operatorios.
-galeria:
-  - /images/uploads/férula-antebraquipalmar.jpg
+galeria: []
 ---
