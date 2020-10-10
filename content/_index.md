@@ -56,10 +56,10 @@ Entrega:
       A lo largo del proceso se realiza un seguimiento personalizado para cada
       paciente.
 Equipo:
-  - foto: /images/uploads/0.jpg
+  - foto: /images/uploads/0joaquin.jpg
     nombre: Joaquín Cravea
     cargo: CEO & founder
-    descripcion: Esta es una pequeña bio que acompaña al perfil
+    descripcion: "Backgrounds in: Medicine / 3D Modelling"
     linkedin: https://www.linkedin.com/in/joaquin-cravea-aramburu-14bb891a1
 Footer:
   item1: Inicio
