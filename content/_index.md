@@ -61,6 +61,11 @@ Equipo:
     cargo: CEO & founder
     descripcion: "Backgrounds in: Medicine / 3D Modelling"
     linkedin: https://www.linkedin.com/in/joaquin-cravea-aramburu-14bb891a1
+  - foto: /images/uploads/0rigoni_03.jpg
+    nombre: Gonzalo Origoni
+    cargo: Co-Founder
+    descripcion: "Background in: Industrial Design / 3D Modelling"
+    linkedin: https://www.linkedin.com/in/gonzalo-origoni-ferreira-228a51165/
 Footer:
   item1: Inicio
   item2: Productos
