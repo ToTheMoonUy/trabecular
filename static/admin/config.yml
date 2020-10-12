@@ -97,8 +97,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Producto", name: "producto", widget: "hidden", default: "productos"}
       - {label: "Titulo", name: "titulo", widget: "string"}
       - {label: "Descripcion", name: "descripcion", widget: "text"}
-      - {label: "Indicaciones", name: "indicaciones", widget: "list", field: {label: "item", name: "item", widget: "string"}}
-      - {label: "Galeria", name: "galeria", widget: "list", field: {label: "imagen", name: "imagen", widget: "image"}}
+      - {label: "Indicaciones", name: "indicaciones", widget: "list", fields: {label: "item", name: "item", widget: "string"}}
+      - {label: "Galeria", name: "galeria", widget: "list", fields: {label: "imagen", name: "imagen", widget: "image"}}
   
   # BLog
   - name: "blog" # Used in routes, e.g., /admin/collections/blog

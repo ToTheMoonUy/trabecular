@@ -3,10 +3,12 @@ producto: productos
 titulo: Férula Antebraquipalmar
 descripcion: "Inmovilizaciones para:"
 indicaciones:
-  - Fracturas de Radio y Cúbito distal
-  - Fracturas de hueso/s de muñeca
-  - Lesiones partes blandas antebraquipalmares
-  - Post-operatorios
+  - item: Fracturas de Radio y Cúbito distal
+  - item: Fracturas de hueso/s de muñeca
+  - item: Lesiones partes blandas antebraquipalmares
+  - item: Post-operatorios
 galeria:
-  - /images/uploads/férula-antebraquipalmar-2-.jpg
+  - imagen: /images/uploads/férula-antebraquipalmar-2-.jpg
+  
 ---
+
