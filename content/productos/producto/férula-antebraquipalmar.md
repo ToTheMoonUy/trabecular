@@ -7,5 +7,6 @@ indicaciones:
   - item: Fracturas de hueso/s de muñeca
   - item: Lesiones partes blandas antebraquipalmares
   - item: Post-operatorios
-galeria: []
+galeria:
+  - /images/uploads/férula-antebraquipalmar-2-.jpg
 ---
