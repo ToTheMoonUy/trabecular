@@ -4,3 +4,4 @@ title = "Trabecular"
 theme = "trabecular"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 sectionPagesMenu = "main"
+googleAnalytics = "UA-180400680-1"
