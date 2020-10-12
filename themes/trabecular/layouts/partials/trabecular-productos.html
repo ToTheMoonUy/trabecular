@@ -26,7 +26,7 @@
           <h3 class="mb-3 mb-md-4 mb-xl-3">Indicación</h3>
           <ul class="list-group list-group-flush mb-4 mb-md-4 mb-xl-5">
               {{ range first 3 .Params.indicaciones }}
-                <li class="list-group-item mb-2">{{ .item }}</li>
+                <li class="list-group-item mb-2">{{ . }}</li>
               {{ end }}
           </ul> <a href="https://trabecular.uy/contacto/" class="btn btn-lg btn-secondary">Contacto</a>
         </div>
