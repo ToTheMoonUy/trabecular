@@ -10,7 +10,7 @@ Video:
   subtitulo: >
     Una alternativa al yeso convencional, utilizando tecnología de vanguardia
     como la impresión 3D, para construir productos ortopédicos hechos a medida.
-  url: https://youtu.be/i_1tX36DNg4
+  url: https://youtu.be/03Xyq77aOCk
 Intro:
   - titulo: ¿Cual es nuestro objetivo?
     items:
