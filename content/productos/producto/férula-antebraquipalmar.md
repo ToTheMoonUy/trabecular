@@ -9,5 +9,4 @@ indicaciones:
   - item: Post-operatorios
 galeria:
   - imagen: /images/uploads/férula-antebraquipalmar-2-.jpg
-  - /images/uploads/blog-1.jpg
 ---
