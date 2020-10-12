@@ -8,5 +8,5 @@ indicaciones:
   - Lesiones partes blandas antebraquipalmares
   - Post-operatorios
 galeria:
-  - /images/uploads/férula-antebraquipalmar-2-.jpg
+  - /images/uploads/t3.jpg
 ---
