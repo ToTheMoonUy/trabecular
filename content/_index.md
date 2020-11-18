@@ -63,7 +63,7 @@ Equipo:
     linkedin: https://www.linkedin.com/in/joaquin-cravea-aramburu-14bb891a1
   - foto: /images/uploads/0rigoni_03.jpg
     nombre: Gonzalo Origoni
-    cargo: Co-Founder
+    cargo: Design Consultant
     descripcion: "Background in: Industrial Design / 3D Modelling"
     linkedin: https://www.linkedin.com/in/gonzalo-origoni-ferreira-228a51165/
 Footer:
