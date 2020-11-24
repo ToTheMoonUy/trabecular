@@ -42,20 +42,13 @@ Las fracturas pueden ser clasificadas desde varios puntos de vista:
 
 **1) Cerradas o Expuestas** (cuando existe una comunicación con el exterior, y por lo tanto, la fractura está contaminada)
 
-2) **Con desplazamiento**, que puede ser de diferentes tipos (angulación, cabalgamiento, por rotación, etc.) o **sin desplazamiento**.
-
-3) **Articulares o Extraarticulares** (que según su localización se dividen en epifisarias, metafisarias o diafisarias)
+2. **Con desplazamiento**, que puede ser de diferentes tipos (angulación, cabalgamiento, por rotación, etc.) o **sin desplazamiento**.
+3. **Articulares o Extraarticulares** (que según su localización se dividen en epifisarias, metafisarias o diafisarias)
 
 4)**Transversales, oblicuas o espiroideas** (según la dirección del trazo)
 
-5) Fracturas con dos fragmentos y un tercer fragmento "en mariposa", multifragmentarias, etc. (**según el** **número de fragmentos**).
+5. Fracturas con dos fragmentos y un tercer fragmento "en mariposa", multifragmentarias, etc. (**según el** **número de fragmentos**).
 
 <!--EndFragment-->
 
-
-
-![](/images/uploads/cortex01-1200x600.jpg)
-
-Donec lacinia tellus pharetra lacinia fringilla. Donec egestas posuere purus, ut imperdiet metus sodales at. Curabitur rutrum lobortis felis, nec accumsan nunc ultrices a. Duis a magna eget urna dignissim aliquam vitae sit amet tellus. Aliquam sollicitudin, justo a commodo consectetur, nibh turpis commodo dui, at laoreet nulla elit id massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut molestie justo et lectus suscipit varius. Fusce ac consectetur neque. Etiam ut vehicula erat, sit amet bibendum ex. Curabitur feugiat magna nec auctor fringilla. Donec sit amet lorem ut arcu vestibulum hendrerit ac sed elit. Nulla ac lacinia velit, ut scelerisque mauris.
-
-Sed volutpat sagittis laoreet. Fusce aliquet in nibh vitae lacinia. Sed id lorem id quam feugiat bibendum quis sit amet augue. Ut dignissim justo sed nibh tristique, at rutrum purus vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce rhoncus ipsum eu facilisis porta. Etiam mollis sapien quis lectus bibendum consequat. Cras dui ligula, dapibus et sodales id, hendrerit nec libero. Sed at convallis tellus. Suspendisse maximus ac neque in maximus. Duis porta pulvinar ex, at eleifend orci tincidunt eu.
+![](/images/uploads/partes-hueso.jpg)
