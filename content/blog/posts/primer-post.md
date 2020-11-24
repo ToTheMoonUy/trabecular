@@ -1,5 +1,5 @@
 ---
-titulo: Primer post
+titulo: Generalidades sobre Fracturas
 copete: >
   Phasellus non suscipit nisi, at tristique tellus. Suspendisse vulputate sem
   sed facilisis dignissim.
@@ -7,15 +7,52 @@ date: 2020-07-16T02:07:53.407Z
 imagen: /images/uploads/rx.jpg
 draft: false
 ---
-![]()
+## Definición
 
-Lorem Ipsum
+* Una fractura es una pérdida de continuidad en la sustancia de un hueso. El término abarca todas las roturas óseas, desde la situación en que un hueso se rompe en muchos fragmentos (fractura conminuta o multifragmentaria) hasta una fisura e incluso una fractura microscópica.
 
-Phasellus non suscipit nisi, at tristique tellus. Suspendisse vulputate sem sed facilisis dignissim. Proin non venenatis tellus, nec scelerisque est. Nunc iaculis, diam sit amet vulputate mattis, odio lectus viverra est, at posuere neque purus quis est. Fusce erat nunc, consectetur vel tellus et, auctor congue quam. Fusce id commodo quam. Proin commodo fringilla nisl ac rhoncus. Etiam risus odio, tincidunt ac ullamcorper ac, consectetur eu nulla. Suspendisse laoreet at lacus feugiat varius. Donec arcu nisl, molestie a cursus nec, congue a ligula. Morbi vitae scelerisque tortor, a convallis diam. Phasellus sit amet odio ut eros porta laoreet. Sed efficitur sem in tortor rhoncus, sed venenatis nisl venenatis.
+## Causas de fractura:
 
-Nam eget fermentum orci. Aliquam a tristique orci, vel maximus tortor. Aenean eget nisi eget leo suscipit consequat quis nec sapien. Nam faucibus neque non eleifend accumsan. Aliquam at ligula urna. Ut vestibulum neque quis nisi cursus, auctor euismod justo eleifend. Ut urna ipsum, tristique nec faucibus et, cursus id nisl. Morbi nec malesuada orci. Aenean id nunc ante. Praesent tortor ipsum, molestie in lectus at, lobortis varius sapien. Maecenas cursus tristique arcu aliquam dapibus. Mauris id placerat risus. Nunc hendrerit sed magna eget viverra.
+* **Traumatismo directo:** <!--StartFragment-->
 
-Morbi in tellus lacinia risus blandit rutrum laoreet sit amet tellus. Suspendisse elementum lorem euismod erat vestibulum volutpat. Vivamus suscipit sagittis sem, a fringilla ligula pretium non. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer luctus egestas mauris. Aenean vestibulum sit amet ex id convallis. Nullam semper pharetra ex, convallis maximus nisl vulputate suscipit. Donec vulputate ligula magna, quis pharetra augue gravida nec. Vivamus in lacus dignissim, euismod risus ac, convallis ligula. Maecenas in commodo augue. Fusce at eros orci. Proin sit amet interdum est. Pellentesque eu tempus erat. Curabitur id libero non arcu sollicitudin auctor in eu massa.
+  Las fracturas están causadas por la aplicación de fuerzas que superan los límites de resistencia del hueso. La causa más frecuente son los traumatismos. En el caso de un traumatismo directo, el hueso puede fracturarse al ser aplastado por un objeto en caída o en movimiento, por ejemplo, una fractura de la falange distal de un dedo por un golpe con un martillo. 
+
+  También puede fracturarse si este golpea con fuerza contra un objeto resistente. Por ejemplo, una caída sobre la punta del codo puede fracturar el olécranon.
+* **Traumatismo indirecto:** 
+
+  Una fuerza de torsión o flexión aplicada a un hueso produce una fractura a cierta distancia de su punto de aplicación. Por ejemplo, una sobrecarga rotacional aplicada al pie puede causar una fractura espiroidea de la tibia.
+
+  El traumatismo indirecto también es la causa más frecuente de luxación.
+* **Fractura por fatiga:** 
+
+  Las cargas repetidas con excesiva frecuencia sobre un hueso pueden ocasionar una fractura. Este mecanismo se compara a menudo con la fatiga de los metales que se rompen después de una flexión repetida más allá de su límite elástico. La fractura más habitual de este tipo es la del segundo metatarsiano ( « fractura de la marcha » , denominada así por sufrecuencia en soldados).
+* **Fracturas espontáneas:** 
+
+  Una fractura espontánea es la que sucede en un hueso patológico o enfermo. Cuando la anomalía ósea reduce la resistencia del hueso, disminuye la fuerza necesaria para producir la fractura e incluso puede llegar a ser mínima. Por ejemplo, una metástasis de una neoplasia puede provocar una fractura espontánea en la región subtrocantérea femoral (una localización frecuente). 
+
+  También pueden aparecer sobre un tumor benigno, por ejemplo, fractura del húmero en un niño con un quiste óseo simple. Las causas más frecuentes de fracturas espontáneas son la osteoporosis y la osteomalacia.
+
+<!--EndFragment-->
+
+## Tipos de fractura
+
+<!--StartFragment-->
+
+Las fracturas pueden ser clasificadas desde varios puntos de vista:
+
+**1) Cerradas o Expuestas** (cuando existe una comunicación con el exterior, y por lo tanto, la fractura está contaminada)
+
+2) **Con desplazamiento**, que puede ser de diferentes tipos (angulación, cabalgamiento, por rotación, etc.) o **sin desplazamiento**.
+
+3) **Articulares o Extraarticulares** (que según su localización se dividen en epifisarias, metafisarias o diafisarias)
+
+4)**Transversales, oblicuas o espiroideas** (según la dirección del trazo)
+
+5) Fracturas con dos fragmentos y un tercer fragmento "en mariposa", multifragmentarias, etc. (**según el** **número de fragmentos**).
+
+<!--EndFragment-->
+
+
 
 ![](/images/uploads/cortex01-1200x600.jpg)
 
