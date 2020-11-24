@@ -53,3 +53,13 @@ Las fracturas pueden ser clasificadas desde varios puntos de vista:
 <!--EndFragment-->
 
 ![](/images/uploads/partes-hueso.jpg)
+
+<!--StartFragment-->
+
+**Fuente:**
+
+* "Ortopedia y Traumatología" 2a Edición: Silberman
+* "Manual de Fracturas" 2a Edición: Perry.
+* "Ortopedia" 2a Edición: McGraw-Hill.
+
+<!--EndFragment-->
