@@ -42,12 +42,13 @@ Las fracturas pueden ser clasificadas desde varios puntos de vista:
 
 **1) Cerradas o Expuestas** (cuando existe una comunicación con el exterior, y por lo tanto, la fractura está contaminada)
 
-2. **Con desplazamiento**, que puede ser de diferentes tipos (angulación, cabalgamiento, por rotación, etc.) o **sin desplazamiento**.
-3. **Articulares o Extraarticulares** (que según su localización se dividen en epifisarias, metafisarias o diafisarias)
+**2) Con desplazamiento**, que puede ser de diferentes tipos (angulación, cabalgamiento, por rotación, etc.) o **sin desplazamiento**.
 
-4)**Transversales, oblicuas o espiroideas** (según la dirección del trazo)
+**3) Articulares o Extraarticulares** (que según su localización se dividen en epifisarias, metafisarias o diafisarias)
 
-5. Fracturas con dos fragmentos y un tercer fragmento "en mariposa", multifragmentarias, etc. (**según el** **número de fragmentos**).
+**4)Transversales, oblicuas o espiroideas** (según la dirección del trazo)
+
+**5)** Fracturas con dos fragmentos y un tercer fragmento "en mariposa", multifragmentarias, etc. (**según el** **número de fragmentos**).
 
 <!--EndFragment-->
 
