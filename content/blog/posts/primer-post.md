@@ -4,7 +4,7 @@ copete: >
   Phasellus non suscipit nisi, at tristique tellus. Suspendisse vulputate sem
   sed facilisis dignissim.
 date: 2020-07-16T02:07:53.407Z
-imagen: /images/uploads/blog-1.jpg
+imagen: /images/uploads/rx.jpg
 draft: false
 ---
 ![]()
