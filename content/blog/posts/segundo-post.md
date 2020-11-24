@@ -1,23 +1,61 @@
 ---
-titulo: Post de prueba 2
+titulo: FRACTURAS DE MUÑECA
 copete: >
   Nam eget fermentum orci. Aliquam a tristique orci, vel maximus tortor. Aenean
   eget nisi eget leo suscipit consequat quis nec sapien. 
 por: Autor 1
 date: 2020-07-15T01:09:37.615Z
-imagen: /images/uploads/blog-2.jpg
+imagen: /images/uploads/colles.jpg
 draft: false
 ---
+<!--StartFragment-->
+
+# Clasificación de fracturas de Radio distal:
+
+**\-No desplazadas**
+
+**\-Desplazadas extraarticulares**
+
+**\-Desplazadas intraarticulares**
 
 
-Lorem Ipsum
 
-Phasellus non suscipit nisi, at tristique tellus. Suspendisse vulputate sem sed facilisis dignissim. Proin non venenatis tellus, nec scelerisque est. Nunc iaculis, diam sit amet vulputate mattis, odio lectus viverra est, at posuere neque purus quis est. Fusce erat nunc, consectetur vel tellus et, auctor congue quam. Fusce id commodo quam. Proin commodo fringilla nisl ac rhoncus. Etiam risus odio, tincidunt ac ullamcorper ac, consectetur eu nulla. Suspendisse laoreet at lacus feugiat varius. Donec arcu nisl, molestie a cursus nec, congue a ligula. Morbi vitae scelerisque tortor, a convallis diam. Phasellus sit amet odio ut eros porta laoreet. Sed efficitur sem in tortor rhoncus, sed venenatis nisl venenatis.
+Las fracturas no desplazadas pueden ser extraarticulares o intraarticulares.
 
-Nam eget fermentum orci. Aliquam a tristique orci, vel maximus tortor. Aenean eget nisi eget leo suscipit consequat quis nec sapien. Nam faucibus neque non eleifend accumsan. Aliquam at ligula urna. Ut vestibulum neque quis nisi cursus, auctor euismod justo eleifend. Ut urna ipsum, tristique nec faucibus et, cursus id nisl. Morbi nec malesuada orci. Aenean id nunc ante. Praesent tortor ipsum, molestie in lectus at, lobortis varius sapien. Maecenas cursus tristique arcu aliquam dapibus. Mauris id placerat risus. Nunc hendrerit sed magna eget viverra.
+Las fracturas desplazadas extraarticulares no afectan a la articulación radiocarpiana ni cubitorradial.
 
-Morbi in tellus lacinia risus blandit rutrum laoreet sit amet tellus. Suspendisse elementum lorem euismod erat vestibulum volutpat. Vivamus suscipit sagittis sem, a fringilla ligula pretium non. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer luctus egestas mauris. Aenean vestibulum sit amet ex id convallis. Nullam semper pharetra ex, convallis maximus nisl vulputate suscipit. Donec vulputate ligula magna, quis pharetra augue gravida nec. Vivamus in lacus dignissim, euismod risus ac, convallis ligula. Maecenas in commodo augue. Fusce at eros orci. Proin sit amet interdum est. Pellentesque eu tempus erat. Curabitur id libero non arcu sollicitudin auctor in eu massa.
+Se clasifican adicionalmente de acuerdo con la dirección del desplazamiento: dorsalmente (ej: fractura de Colles) o volarmente (fractura de Smith tipo I o II).
 
-Donec lacinia tellus pharetra lacinia fringilla. Donec egestas posuere purus, ut imperdiet metus sodales at. Curabitur rutrum lobortis felis, nec accumsan nunc ultrices a. Duis a magna eget urna dignissim aliquam vitae sit amet tellus. Aliquam sollicitudin, justo a commodo consectetur, nibh turpis commodo dui, at laoreet nulla elit id massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut molestie justo et lectus suscipit varius. Fusce ac consectetur neque. Etiam ut vehicula erat, sit amet bibendum ex. Curabitur feugiat magna nec auctor fringilla. Donec sit amet lorem ut arcu vestibulum hendrerit ac sed elit. Nulla ac lacinia velit, ut scelerisque mauris.
+La fractura de Colles (imágen) ocurre a 2,5 cm de la muñeca y posee una deformidad característica cuando está desplazada. Es la fractura más frecuente de todas.
 
-Sed volutpat sagittis laoreet. Fusce aliquet in nibh vitae lacinia. Sed id lorem id quam feugiat bibendum quis sit amet augue. Ut dignissim justo sed nibh tristique, at rutrum purus vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce rhoncus ipsum eu facilisis porta. Etiam mollis sapien quis lectus bibendum consequat. Cras dui ligula, dapibus et sodales id, hendrerit nec libero. Sed at convallis tellus. Suspendisse maximus ac neque in maximus. Duis porta pulvinar ex, at eleifend orci tincidunt eu. 
+Suele producirse tras una caída sobre la mano extendida y, por lo general, el fragmento radial distal permanece intacto.
+
+Las indicaciones para hacer la reducción de la fractura de Colles incluyen pérdida >5mm de longitud radial o 10 grados o más de inclinación dorsal.
+
+La reducción se realiza reproduciendo primero la lesión con hiperextensión y luego con flexión de muñeca.
+
+El radio distal se amolda con los pulgares del cirujano sobre las superficies dorsal  y radial para empujar de vuelta al fragmento de vuelta al interior de la metáfisis.
+
+El fragmento de empuja volarmente para elevar las cortezas volares en oposición. La palpación de los primeros espacios a lo largo de las superficies dorsal y radial ayuda a confirmar la reducción adecuada.
+
+Mientras la muñeca está en flexión palmar a 20 a 30 grados, con mantenimiento de la tracción, se aplica una férula de tenacilla de muelle o un enyesado.
+
+Una vez que se ha fijado la porción corta del brazo enyesado, la tracción se libera y se aplica la porción por encima del codo.
+
+Las fracturas extraarticulares desplazadas conminuta son lesiones de alta energía y frecuentemente tienen un componente no desplazado que penetra a una de las articulaciones.
+
+Las fracturas desplazadas intraarticulares involucran la articulación radiocarpiana, la articulación cubitorradial distal, o ambas.
+
+Un desplazamiento articular no corregido mayor de 2 mm tiene un diagnóstico peor, especialmente en pacientes más jóvenes. 
+
+Las fracturas intraarticulares desplazadas se clasifican de manera adicional de acuerdo con que sean simples (pocas líneas de fractura) o conminuta (multifragmentarias).
+
+Las fracturas no desplazadas se tratan con un enyesado corto de brazo, a menos que haya una hinchazón considerable presente, en cuyo caso se aplica una férula de "tenacilla de muelle". El paciente retorna en 7 a 10 días para una radiografía de seguimiento. El enyesado se cambia al disminuír la hinchazón, y de ordinario se retira entre 4 y 6 semanas. Se usa una férula de elevación (cock-up) de muñeca entre las sesiones de ejercicios en el intervalo.
+
+
+
+**Fuente:**
+
+**\-....**
+
+<!--EndFragment-->
