@@ -1,5 +1,5 @@
 ---
-titulo: FRACTURAS DE MUÑECA
+titulo: Fracturas de Muñeca
 copete: >
   Nam eget fermentum orci. Aliquam a tristique orci, vel maximus tortor. Aenean
   eget nisi eget leo suscipit consequat quis nec sapien. 
