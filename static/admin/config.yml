@@ -117,7 +117,7 @@ collections: # A list of collections the CMS should be able to edit
   #Footer
   - name: "footer"
     label: "Footer"
-    file: "data\menu\footer.yml"
+    file: "data/menu/footer.yml"
     fields:
     - label: "sobre"
       name: Sobre
