@@ -113,3 +113,19 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Fecha", name: "date", widget: "datetime"}
       - {label: "Imagen", name: "imagen", widget: "image"}
       - {label: "Texto", name: "body", widget: "markdown"}
+
+  #Footer
+  - name: "footer"
+    label: "Footer"
+    file: "data\menu\footer.yml"
+    fields:
+    - label: "sobre"
+      name: Sobre
+      widget: object
+      fields: 
+        - label: "titulo"
+          name: "titulo"
+          widget: "text"
+        - label: "subtitulo"
+          name: "subtitulo"
+          widget: "text"
