@@ -115,17 +115,25 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Texto", name: "body", widget: "markdown"}
 
   #Footer
-  - name: "footer"
-    label: "Footer"
-    file: "data/menu/footer.yml"
-    fields:
-    - label: "sobre"
-      name: Sobre
-      widget: object
-      fields: 
-        - label: "titulo"
-          name: "titulo"
-          widget: "text"
-        - label: "subtitulo"
-          name: "subtitulo"
-          widget: "text"
+  - label: "footer"
+    name: "footer"
+    files:
+      - name: "sobre"
+        label: "sobre"
+        file: "data/menu/footer.yml"
+        extension: "yml"
+        fields:
+          - label: "sobre"
+            name: "sobre"
+            widget: "object"
+            fields:
+              - {label: "Titulo", name: "titulo", widget: "text"}
+              - {label: "Subtitulo", name: "subtitulo", widget: "text"}
+          - label: "contacto"
+            name: "contacto"
+            widget: "object"
+            fields:
+              - {label: "Titulo", name: "titulo", widget: "text"}
+              - {label: "Telefono", name: "telefono", widget: "text"}
+              - {label: "Mail", name: "mail", widget: "text"}
+              - {label: "Dirección", name: "direccion", widget: "text"}
