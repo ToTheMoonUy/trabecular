@@ -6,8 +6,7 @@ indicaciones:
   - Postoperatorio de fracturas de Radio y Cúbito distal
   - Postoperatorio de fracturas de hueso/s del carpo
   - Lesiones partes blandas antebraquipalmares
-  - Post-operatorios
 galeria:
-  - /images/uploads/férula-antebraquipalmar-2-.jpg
-  - /images/uploads/ferula-lateral.png
+  - /images/uploads/férula-amarilla_02.jpg
+  - /images/uploads/férula-celeste-mojada_02.jpg
 ---
