@@ -58,7 +58,7 @@ Entrega:
 Equipo:
   - foto: /images/uploads/00joaquin.jpg
     nombre: Joaquín Cravea
-    cargo: CEO & founder
+    cargo: Founder
     descripcion: "Backgrounds in: Medicine / 3D Modelling"
     linkedin: https://www.linkedin.com/in/joaquin-cravea-aramburu-14bb891a1
   - foto: /images/uploads/0rigoni_03.jpg
